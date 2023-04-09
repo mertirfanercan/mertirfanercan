@@ -6,9 +6,13 @@ Full Stack Java Developer
 
 I'm a software developer living in Istanbul. I mainly work as backend developer but I can use Angular and Vue for frontend too. I have a great knowledge about Spring and nowadays I usually use Node frameworks for backend.
 
-*   🌍  I'm based in Istanbul
-*   ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com)
-*   🧠  I'm learning Golang### Skills 
+* 🌍  I'm based in Istanbul
+* ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com)
+* 🧠  I'm learning Golang
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -32,10 +36,8 @@ I'm a software developer living in Istanbul. I mainly work as backend developer 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MertIrfanErcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MertIrfanErcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
