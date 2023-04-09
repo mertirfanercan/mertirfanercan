@@ -34,7 +34,7 @@ I'm a software developer living in Istanbul. I mainly work as backend developer 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,cs,py,fastapi,mysql,mongodb,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,cs,go,py,fastapi,mysql,mongodb,linux,idea,eclipse,postman,vscode)](https://skillicons.dev)
 
 
 ### Socials
