@@ -14,7 +14,7 @@ In the otherhands I often use Node frameworks for backend. I started NodeJS back
 
 I'm using C# for building desktop applications for Microsoft Windows.
 
-I'm using Python for machine learning and data science mainly. For backend development I use FastAPI for building Rest APIs.
+I'm using Python for machine learning and data science mainly. For backend development I use FastAPI.
 
 I'm using Go for MVC applications.
 
