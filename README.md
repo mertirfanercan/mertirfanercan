@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Ercan
 ==================================================================================================================================
 
-Full Stack Java Developer
+Full Stack Web Developer
 -------------------------
 
-I started as data scientist and today I work as web developer. 
+I started as Java developer and today I work as web developer. 
 
 I mainly work as backend developer but I can use Angular and Vue for frontend too. I can build SPAs and Server Side Rendered apps. I'm not a professional designer but I can make non-complex css designs with Bootstrap and Bulma. I use Figma for mobile and web designs.
 
@@ -14,7 +14,7 @@ In the otherhands I often use Node frameworks for backend. I started NodeJS back
 
 I'm using C# for building desktop applications for Microsoft Windows.
 
-I'm using Python for machine learning and data science mainly. For backend development I use FastAPI.
+I'm for backend development through with FastAPI.
 
 I'm using Go for MVC applications.
 
