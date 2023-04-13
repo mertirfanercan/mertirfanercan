@@ -8,7 +8,7 @@ I started as Java developer and today I work as web developer.
 
 I mainly work as backend developer but I can use Angular and Vue for frontend too. I can build SPAs and Server Side Rendered apps. I'm not a professional designer but I can make non-complex css designs with Bootstrap and Bulma. I use Figma for mobile and web designs.
 
-I have a great knowledge about Spring and Hibernate. I'm good at microservices architecture using Spring Cloud, Apache Kafka and RabbitMQ. I can add authentication, authorization, CORs and CSRF using Spring Security and Java Jwt. In my projects I usually use AOP paradigm. I can design desktop apps with Swing and JavaFX. I've built server based MVC applications using JSP and JSTL.
+I have a great knowledge about Spring and Hibernate. I'm good at microservices architecture using Spring Cloud, Apache Kafka and RabbitMQ. I can add authentication, authorization, CORS and CSRF using Spring Security and Java Jwt. In my projects I usually use AOP paradigm. I can design desktop apps with Swing and JavaFX. I've built server based MVC applications using JSP and JSTL.
 
 In the otherhands I often use Node frameworks for backend. I started NodeJS backend development with ExpressJS but laterly I've started to use NestJS. Like as Spring I can add authentication and authorization on NodeJS applications using PassportJS.
 
