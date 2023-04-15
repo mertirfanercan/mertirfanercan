@@ -24,7 +24,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
-* 🧠  I'm currently learning NestJS, Docker and Kubernetes.
+* 🧠  I'm currently learning NestJS and Docker.
 
 ### Skills
 
