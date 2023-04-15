@@ -24,7 +24,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
-* 🧠  I'm currently learning NestJS and Docker.
+* 🧠  I'm currently learning DevOps.
 
 ### Skills
 
@@ -50,7 +50,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,electron,cs,go,py,fastapi,mysql,sqlite,mongodb,git,linux,idea,eclipse,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,nestjs,electron,cs,go,py,fastapi,mysql,sqlite,mongodb,git,linux,idea,eclipse,postman,vscode)](https://skillicons.dev)
 
 
 ### Socials
