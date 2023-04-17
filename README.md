@@ -24,7 +24,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
-* * 🖥️  See my portfolio at [https://mertercan.tech/]
+* 🖥️  See my portfolio at [https://mertercan.tech/]
 * 🧠  I'm currently learning DevOps.
 
 ### Skills
