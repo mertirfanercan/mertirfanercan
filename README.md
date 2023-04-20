@@ -14,7 +14,7 @@ In the otherhands I often use Node frameworks for backend too. I started NodeJS 
 
 I'm using C# for building desktop applications for Microsoft Windows.
 
-I'm for backend development through with FastAPI.
+I'm using Python for backend development through with FastAPI.
 
 I'm using Go for MVC applications.
 
