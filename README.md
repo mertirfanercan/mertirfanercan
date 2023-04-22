@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 -------------------------
 
+<!--
+
 I started as a Java developer and today I work as a web developer. 
 
 I mainly work as backend developer but I can use Angular and Vue for frontend too. I can build SPAs and Server Side Rendered apps. I'm not a professional designer but I can make non-complex css designs with Bootstrap and Bulma. I use Figma for mobile and web designs.
@@ -21,6 +23,7 @@ I'm using Go for MVC applications.
 I'm familiar with MySQL and MongoDB. And I've a small knowledge about Postgres and Firebase.
 
 I use Arch based Linux distros as operating system but I have a good knowledge about Microsoft Windows too.
+-->
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
