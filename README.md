@@ -54,6 +54,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 </p> 
 -->
 
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,nestjs,electron,cs,go,py,fastapi,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
 
 
