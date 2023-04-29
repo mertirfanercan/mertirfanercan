@@ -60,4 +60,5 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 
 ### Socials
 
+
 <p align="left"> <a href="https://www.github.com/MertIrfanErcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
