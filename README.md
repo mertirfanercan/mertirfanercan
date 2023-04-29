@@ -5,7 +5,6 @@ Full Stack Web Developer
 -------------------------
 
 <!--
-
 I started as a Java developer and today I work as a web developer. 
 
 I mainly work as backend developer but I can use Angular and Vue for frontend too. I can build SPAs and Server Side Rendered apps. I'm not a professional designer but I can make non-complex css designs with Bootstrap and Bulma. I use Figma for mobile and web designs.
