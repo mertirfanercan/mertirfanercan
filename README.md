@@ -23,6 +23,7 @@ I'm using Go for MVC applications.
 I'm familiar with MySQL and MongoDB. And I've a small knowledge about Postgres and Firebase.
 
 I use Arch based Linux distros as operating system but I have a good knowledge about Microsoft Windows too.
+
 -->
 
 * 🌍  I'm based in Istanbul.
