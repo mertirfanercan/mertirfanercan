@@ -56,7 +56,7 @@ I use Arch based Linux distros as operating system but I have a good knowledge a
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,angular,vue,nuxtjs,nodejs,express,nestjs,electron,dart,cs,go,py,fastapi,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,vue,nuxtjs,angular,nodejs,express,nestjs,electron,dart,cs,go,py,fastapi,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
 
 
 ### Socials
