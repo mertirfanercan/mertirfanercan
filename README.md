@@ -6,7 +6,8 @@ Full Stack Web Developer
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
 * 🖥️  See my portfolio at [https://mertercan.tech/]
-* 🧠  I'm currently learning React and NextJS.
+* 🧠  I'm currently learning 
+NextJS.
 
 ### Skills
 
@@ -34,7 +35,7 @@ Full Stack Web Developer
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,vue,nuxtjs,angular,nodejs,express,nestjs,electron,dart,cs,go,py,fastapi,flask,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,vue,nuxtjs,angular,react,nodejs,express,nestjs,electron,dart,cs,go,py,fastapi,flask,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
 
 
 ### Socials
