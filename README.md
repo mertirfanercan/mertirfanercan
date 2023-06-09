@@ -38,7 +38,7 @@ Full Stack Web Developer
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,vue,nuxtjs,angular,nodejs,express,nestjs,electron,go,py,fastapi,flask,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,kafka,hibernate,js,ts,html,css,vue,nuxtjs,angular,react,nodejs,express,nestjs,electron,go,py,fastapi,flask,mysql,sqlite,mongodb,git,github,linux,idea)](https://skillicons.dev)
 
 
 <!--
