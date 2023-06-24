@@ -8,6 +8,7 @@ Full Stack Web Developer
 * 🧠  I'm currently learning React Native.
 <!--* 🖥️  See my portfolio at [https://mertercan.tech/] -->
 
+
 ### Skills
 
 
