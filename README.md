@@ -15,6 +15,6 @@ Full Stack Web Developer
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,js,ts,html,css,sass,bootstrap,vue,nuxtjs,react,nextjs,redux,nodejs,express,nestjs,go,py,fastapi,postgres,mysql,mongodb.supabase,webpack,docker,git,github,linux,idea&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,js,ts,html,css,sass,bootstrap,vue,nuxtjs,react,nextjs,redux,nodejs,express,nestjs,go,py,fastapi,postgres,mysql,mongodb,webpack,docker,git,github,linux,idea&perline=15)](https://skillicons.dev)
 
 <!-- &perline=x -->
