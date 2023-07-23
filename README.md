@@ -5,9 +5,8 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
-<!--
-* 🧠  I'm currently learning React Native.
--->
+* 🧠  I'm currently learning Flutter.
+
 <!--* 🖥️  See my portfolio at [https://mertercan.tech/] -->
 
 ###
