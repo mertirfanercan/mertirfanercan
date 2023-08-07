@@ -5,7 +5,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
-* 🧠  I'm currently learning Flutter.
+* 🧠  I'm currently learning Codeigniter.
 
 <!--* 🖥️  See my portfolio at [https://mertercan.tech/] -->
 
@@ -16,7 +16,7 @@ Full Stack Web Developer
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,redux,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,redux,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=12)](https://skillicons.dev)
 
 
 <!--
