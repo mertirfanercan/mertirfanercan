@@ -19,7 +19,6 @@ Full Stack Web Developer
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,redux,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=13)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertirfanercan)](https://github.com/mertirfanercan/github-readme-stats)
 
 <!--
 ### Favorite Tech Stack
