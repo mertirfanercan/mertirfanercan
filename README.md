@@ -5,7 +5,9 @@ Software Developer
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
- * 🧠  I'm currently learning Codeigniter.
+<!--
+ * 🧠  I'm currently learning Codeigniter. 
+-->
 
 <!-- * 🖥️  See my portfolio at [https://mertercan.tech/] -->
 
@@ -16,7 +18,7 @@ Software Developer
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=13)](https://skillicons.dev)
 
 
 
