@@ -19,7 +19,7 @@ Software Developer
 
 <!--
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,php,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,php,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=14)](https://skillicons.dev)
 
 -->
 
