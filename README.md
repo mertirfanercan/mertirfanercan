@@ -25,7 +25,7 @@ Software Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?java,kotlin,spring,hibernate,maven,php,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,php,dart,flutter,js,ts,html,css,sass,vue,nuxtjs,react,nextjs,mui,nodejs,express,nestjs,postgres,webpack,docker,git,github,linux,idea&perline=7" />
   </a>
 </p>
 
