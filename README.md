@@ -5,7 +5,9 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Istanbul.
 * ✉️  You can contact me at [mertirfanercan@gmail.com](mailto:mertirfanercan@gmail.com).
+<!--
  * 🧠  I'm currently learning Laravel. 
+-->
 
 <!-- * 🖥️  See my portfolio at [https://mertercan.tech/] -->
 
