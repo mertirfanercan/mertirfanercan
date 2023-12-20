@@ -17,14 +17,3 @@ Full Stack Web Developer
   </a>
 </p>
 
-
-<!--
-### Favorite Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,sass,bootstrap,java,spring,hibernate,postgres)](https://skillicons.dev)
--->
-
-
-
-
-<!-- &perline=x -->
