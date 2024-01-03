@@ -11,7 +11,7 @@ Full Stack Web Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,bootstrap,tailwind,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,postgres,firebase,webpack,docker,git,github,linux,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,dart,flutter,js,ts,html,css,sass,bootstrap,tailwind,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,go,postgres,webpack,docker,git,github,linux,idea&perline=10" />
   </a>
 </p>
 
