@@ -19,5 +19,4 @@ Full Stack Web Developer
 
 <div align="center">
   <img src="https://github-stats-lilac-omega.vercel.app/api/top-langs?username=mertirfanercan&layout=compact&hide=php,html,css,sass,scss,cmake,c%2B%2B"/>
-  
 </div>
