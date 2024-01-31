@@ -14,3 +14,5 @@ Full Stack Web Developer
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,go,dart,flutter,postgres,webpack,docker,git,github,linux,bash,idea&perline=10" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mertirfanercan)](https://github.com/anuraghazra/github-readme-stats)
