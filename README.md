@@ -14,5 +14,3 @@ Full Stack Web Developer
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,go,dart,flutter,postgres,webpack,docker,git,github,linux,bash,idea&perline=10" />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mertirfanercan)](https://git.io/streak-stats)
