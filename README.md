@@ -11,12 +11,13 @@ Full Stack Web Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,js,ts,html,css,sass,tailwind,bootstrap,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,go,dart,flutter,postgres,webpack,docker,git,github,linux,bash,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,mui,vue,nuxtjs,react,nextjs,nodejs,express,nestjs,go,dart,flutter,postgres,webpack,docker,git,github,linux,bash,idea&perline=10" />
   </a>
 </p>
 
+<!--
 ### Languages
-
 <div align="center">
   <img src="https://github-stats-lilac-omega.vercel.app/api/top-langs?username=mertirfanercan&layout=compact&hide=php,html,css,sass,scss,cmake,c%2B%2B"/>
 </div>
+-->
