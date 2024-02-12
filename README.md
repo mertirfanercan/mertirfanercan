@@ -6,7 +6,6 @@ Full Stack Web Developer
 * 🌍  I'm based in Istanbul.
 
 
-
 ### Skills
 
 <p align="center">
