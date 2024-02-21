@@ -14,10 +14,33 @@ Full Stack Web Developer
   </a>
 </p>
 
-## Frontend
+### Frontend
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwindcss,vue,nuxt,pinia,react,next,mui,webpack,vite&perline=10" />
+  </a>
+
+### Backend
+
+
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go&perline=10" />
+  </a>
+
+
+### Database
+
+a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" />
+  </a>
+
+
+### Tools
+
+
+a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,linux,arch,npm,yarn,pnpm&perline=10" />
   </a>
 
 
