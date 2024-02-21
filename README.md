@@ -21,17 +21,12 @@ Full Stack Web Developer
   </a>
 
 ### Backend
-
-
-
-<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go&perline=10" />
   </a>
 
 
 ### Database
 
-a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" />
   </a>
 
