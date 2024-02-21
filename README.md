@@ -34,7 +34,7 @@ Full Stack Web Developer
 ### Tools
 
 
-a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,linux,arch,npm,yarn,pnpm&perline=10" />
   </a>
 
