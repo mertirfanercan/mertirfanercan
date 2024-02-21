@@ -14,7 +14,11 @@ Full Stack Web Developer
   </a>
 </p>
 
+## Frontend
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwindcss,vue,nuxt,pinia,react,next,mui,webpack,vite&perline=10" />
+  </a>
 
 
 <!--
