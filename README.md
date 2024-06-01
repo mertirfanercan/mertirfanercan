@@ -8,9 +8,15 @@ Full Stack Web Developer
 
 ### Skills
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap,vue,nuxtjs,pinia,react,nextjs,mui,nodejs,express,nestjs,prisma,dart,flutter,go,postgres,webpack,vite,vitest,docker,git,github,linux,bash,idea&perline=10" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,bash.linux" />
   </a>
 </p>
 
