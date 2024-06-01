@@ -14,11 +14,9 @@ Full Stack Web Developer
   </a>
 </p> -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,bash,linux" />
-  </a>
-</p>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,c,bash,linux" />
+ </a>
 
 <!--
 
