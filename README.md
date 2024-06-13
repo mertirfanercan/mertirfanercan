@@ -16,7 +16,7 @@ Compiler Developer
 </p> -->
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,c,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,c,bash,linux,neovim" />
  </a>
 
 <!--
