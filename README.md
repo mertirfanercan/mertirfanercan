@@ -4,7 +4,6 @@ Compiler Developer
 -------------------------
 
 * 🌍  I'm based in Istanbul.
-* I'm a Rust ententhusiast.
 
 
 ### Skills
