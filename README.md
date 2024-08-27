@@ -15,7 +15,7 @@ Systems Programmer
 </p> -->
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,rust,bash,linux,neovim" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,vim" />
  </a>
 
 <!--
