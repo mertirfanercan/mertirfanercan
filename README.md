@@ -29,7 +29,7 @@ Will be added.
 </p> -->
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=c,rust,bash,linux,vim" />
  </a>
 
 <!--
