@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Ercan
 ==================================================================================================================================
-Systems Programmer
+Full Stack Web Developer
 -------------------------
 
 * 🌍  I'm based in Istanbul.
@@ -29,7 +29,7 @@ Will be added.
 </p> -->
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,rust,bash,linux,neovim" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,vue,nuxtjs,angular,nodejs,express,nestjs,postgres,webpack,vite,vitest,docker,git,github,linux,bash&perline=10" />
  </a>
 
 <!--
