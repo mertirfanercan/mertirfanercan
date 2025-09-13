@@ -29,7 +29,7 @@ Will be added.
 </p> -->
 
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,vue,nuxtjs,angular,nodejs,express,nestjs,postgres,webpack,vite,vitest,docker,git,github,linux,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,npm,html,css,sass,tailwind,vue,nuxtjs,pinia,angular,nodejs,express,nestjs,postgres,webpack,vite,vitest,cypress,jest,docker,git,github,linux,bash,nix,vscode,webstorm&perline=10" />
  </a>
 
 <!--
